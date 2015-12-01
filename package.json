@@ -1,6 +1,6 @@
 {
-	"name": "fibers",
-	"version": "1.0.6",
+	"name": "fibers-scriby",
+	"version": "1.0.8",
 	"description": "Cooperative multi-tasking for Javascript",
 	"keywords": [
 		"fiber", "fibers", "coroutine", "thread", "async", "parallel", "worker", "future", "promise"],
